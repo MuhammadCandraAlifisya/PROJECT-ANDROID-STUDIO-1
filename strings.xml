@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BelajarAndroid</string>
+    <string name="buttonclear">CLEAR</string>
+    <string name="daftar">Daftar Sekarang?</string>
+</resources>
